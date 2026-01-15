@@ -4,3 +4,7 @@ title: "FYP Project"
 
 ## Project Title: Automated Irrigation System
 This project involved using an **Arduino**, a **moisture sensor**, and a **water pump** to automate plant watering based on various monitoring statistics through sensors.
+
+## Video Demonstration
+{{< video path/to/video.mp4 width="600" height="400" >}}
+{{< video https://youtu.be/ygxwC51yNkQ width="600" height="400" >}}

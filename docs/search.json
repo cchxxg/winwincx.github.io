@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to My Site",
     "section": "",
-    "text": "Hello! I am a student with a passion for Computer Science and Statistics.\n\n\n\nThat’s me!\n\n\nI enjoy working on technical projects ranging from web development to data analysis."
+    "text": "Feel free to explore my site to see my Final Year Project, my latest Data Visualization work, or my Reflection on the evolving role of AI in technology.\nHello! I am a dedicated student with a strong foundation in Computer Science and Applied Mathematics. I am passionate about bridging the gap between complex data analysis and practical software solutions.\nI enjoy working on technical projects ranging from web development to data analysis."
   },
   {
     "objectID": "about.html",
@@ -47,5 +47,26 @@
     "title": "FYP Project",
     "section": "",
     "text": "This project involved using an Arduino, a moisture sensor, and a water pump to automate plant watering based on various monitoring statistics through sensors."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Site",
+    "section": "About Me",
+    "text": "About Me\nI am currently pursuing my studies with a focus on building robust, data-driven applications. My academic journey has been defined by a deep curiosity for how systems work—from the low-level logic of hardware to the high-level abstractions of web frameworks. I thrive in environments that challenge my problem-solving skills and allow me to apply theoretical concepts to real-world projects.\n\n\n\n\n\n\n\n\nNote🛠️ My Strengths\n\n\n\n\nFull-Stack Development: Experience in JavaScript, PHP, and Python (MySQL integration).\nSystems & Infrastructure: Proficient with Linux servers, networking (STP/Subnetting), and AWS EMR clusters.\nHardware-Software Integration: Building automated systems with Arduino, sensors, and relays.\nMathematical Rigor: Strong background in Linear Algebra and Inferential Statistics.\n\n\n\n\n\n\n\n\n\n\n\nTip💡 Technical Interests\n\n\n\n\nData Visualization: Using R and Quarto to turn quantitative data into visual insights.\nGame Development: Working with the LibGDX framework in Java.\nCloud & Big Data: Exploring scalable AWS solutions and NoSQL applications."
+  },
+  {
+    "objectID": "index.html#about-me3",
+    "href": "index.html#about-me3",
+    "title": "Welcome to My Site",
+    "section": "About Me3",
+    "text": "About Me3\nI am currently pursuing my studies with a focus on building robust, data-driven applications. My academic journey has been defined by a deep curiosity for how systems work—from the low-level logic of hardware to the high-level abstractions of web frameworks. I thrive in environments that challenge my problem-solving skills and allow me to apply theoretical concepts to real-world projects.\n\n\n\n\n\n\n\n\nNote🛠️ My Strengths\n\n\n\n\nFull-Stack Development: Experience in JavaScript, PHP, and Python (MySQL integration).\nSystems & Infrastructure: Proficient with Linux servers, networking (STP/Subnetting), and AWS EMR clusters.\nHardware-Software Integration: Building automated systems with Arduino, sensors, and relays.\nMathematical Rigor: Strong background in Linear Algebra and Inferential Statistics.\n\n\n\n\n\n\n\n\n\n\n\nTip💡 Technical Interests\n\n\n\n\nData Visualization: Using R and Quarto to turn quantitative data into visual insights.\nGame Development: Working with the LibGDX framework in Java.\nCloud & Big Data: Exploring scalable AWS solutions and NoSQL applications."
+  },
+  {
+    "objectID": "fyp-project.html#video-demonstration",
+    "href": "fyp-project.html#video-demonstration",
+    "title": "FYP Project",
+    "section": "Video Demonstration",
+    "text": "Video Demonstration"
   }
 ]
