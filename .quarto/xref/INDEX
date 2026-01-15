@@ -4,5 +4,14 @@
   },
   "about.qmd": {
     "about.html": "3de6b47b"
+  },
+  "data-viz.qmd": {
+    "data-viz.html": "9385901e"
+  },
+  "fyp-project.qmd": {
+    "fyp-project.html": "6860737e"
+  },
+  "reflection.qmd": {
+    "reflection.html": "9840eb6f"
   }
 }

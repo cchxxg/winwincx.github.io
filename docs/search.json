@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website-temp",
+    "title": "Welcome to My Site",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am a student with a passion for Computer Science and Statistics.\n\n\n\nThat’s me!\n\n\nI enjoy working on technical projects ranging from web development to data analysis."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "What GenAI tool did you use?\nFor this assessment, I used Gemini (specifically the Gemini 3 Flash model). I chose this tool because of its ability to provide real-time technical troubleshooting and its deep integration with programming workflows like RStudio and Git.\n\n\nHow the GenAI tool helped me\nThe tool was instrumental in several areas: 1. Troubleshooting Git Errors: When I encountered the fatal: no upstream branch error in my terminal, Gemini explained that my local master branch wasn’t linked to GitHub and provided the exact command (git push -u origin master) to fix it. 2. Quarto Configuration: It helped me structure my _quarto.yml file to ensure my navigation bar was correctly linked to my .qmd files. 3. Environment Setup: It provided guidance on moving my project out of OneDrive to prevent synchronization conflicts with Git’s internal tracking files.\n\n\nBenefits of the Tool\nThe primary benefit was the speed of resolution. Instead of searching through long forum threads, I could provide my specific error message and get a tailored solution immediately. It acted as a “thought partner” that helped bridge the gap between my knowledge of Java/JavaScript and the specific syntax of R and Quarto.\n\n\nChallenges of the Tool\nThe main challenge was ensuring the AI understood my local folder structure. For example, I had to be very specific about file names (like logo.png vs fav-icon.png) to ensure the generated code snippets would work without “broken image” errors.\n\n\nFuture Assistance\nIn my future study and work, I see GenAI tools as essential for rapid prototyping. Whether I am debugging a MySQL connection in Python or setting up an AWS EMR cluster, having a tool that can explain complex documentation in simple steps will significantly increase my productivity."
+  },
+  {
+    "objectID": "data-viz.html",
+    "href": "data-viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Below is a scatter plot representing the relationship between weekly study hours and final exam scores for a sample of 50 students in a Statistics module.\n\n\n\nScatter Plot of Study Hours vs Exam Scores\n\n\n\n\nThis graph visualizes quantitative data. The x-axis represents the independent variable (Study Hours per Week), and the y-axis represents the dependent variable (Exam Scores, ranging from 0-100). Each point on the plot represents an individual student’s data.\n\n\n\nThis visualization was created as part of a probability and statistics project to determine if there was a strong positive correlation between time investment and academic results.\nRationale for the Visualization: I chose a Scatter Plot because it is the most effective way to identify the relationship (correlation) between two numerical variables. By adding a trend line, I could clearly show that as study hours increased, exam scores tended to rise, providing a visual representation of the \\(r\\) correlation coefficient we calculated in class."
+  },
+  {
+    "objectID": "data-viz.html#visualization-of-academic-performance-vs.-study-hours",
+    "href": "data-viz.html#visualization-of-academic-performance-vs.-study-hours",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Below is a scatter plot representing the relationship between weekly study hours and final exam scores for a sample of 50 students in a Statistics module.\n\n\n\nScatter Plot of Study Hours vs Exam Scores\n\n\n\n\nThis graph visualizes quantitative data. The x-axis represents the independent variable (Study Hours per Week), and the y-axis represents the dependent variable (Exam Scores, ranging from 0-100). Each point on the plot represents an individual student’s data.\n\n\n\nThis visualization was created as part of a probability and statistics project to determine if there was a strong positive correlation between time investment and academic results.\nRationale for the Visualization: I chose a Scatter Plot because it is the most effective way to identify the relationship (correlation) between two numerical variables. By adding a trend line, I could clearly show that as study hours increased, exam scores tended to rise, providing a visual representation of the \\(r\\) correlation coefficient we calculated in class."
+  },
+  {
+    "objectID": "fyp-project.html",
+    "href": "fyp-project.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This project involved using an Arduino, a moisture sensor, and a water pump to automate plant watering based on various monitoring statistics through sensors."
+  },
+  {
+    "objectID": "fyp-project.html#project-title-automated-irrigation-system",
+    "href": "fyp-project.html#project-title-automated-irrigation-system",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This project involved using an Arduino, a moisture sensor, and a water pump to automate plant watering based on various monitoring statistics through sensors."
   }
 ]
