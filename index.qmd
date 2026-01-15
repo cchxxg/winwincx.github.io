@@ -1,9 +1,37 @@
 ---
 title: "Welcome to My Site"
 ---
+::: {.lead}
+*Feel free to explore my site to see my [Final Year Project](fyp-project.qmd), my latest [Data Visualization](data-viz.qmd) work, or my [Reflection](reflection.qmd) on the evolving role of AI in technology.*
+:::
 
-Hello! I am a student with a passion for **Computer Science** and **Statistics**. 
+Hello! I am a dedicated student with a strong foundation in **Computer Science** and **Applied Mathematics**. I am passionate about bridging the gap between complex data analysis and practical software solutions.
 
-![That's me!](my-photo.jpg)
+::: {.quarto-figure .quarto-figure-center}
+![That's me!](my-photo.jpg){.img-fluid .figure-img width="200"}
+:::
+## About Me
+I am currently pursuing my studies with a focus on building robust, data-driven applications. My academic journey has been defined by a deep curiosity for how systems work—from the low-level logic of hardware to the high-level abstractions of web frameworks. I thrive in environments that challenge my problem-solving skills and allow me to apply theoretical concepts to real-world projects.
 
-I enjoy working on technical projects ranging from **web development** to **data analysis**.
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note icon=false}
+## 🛠️ My Strengths
+* **Full-Stack Development**: Experience in **JavaScript**, **PHP**, and **Python** (MySQL integration).
+* **Systems & Infrastructure**: Proficient with **Linux servers**, networking (STP/Subnetting), and **AWS EMR clusters**.
+* **Hardware-Software Integration**: Building automated systems with **Arduino**, sensors, and relays.
+* **Mathematical Rigor**: Strong background in **Linear Algebra** and **Inferential Statistics**.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-tip icon=false}
+## 💡 Technical Interests
+* **Data Visualization**: Using **R and Quarto** to turn quantitative data into visual insights.
+* **Game Development**: Working with the **LibGDX** framework in **Java**.
+* **Cloud & Big Data**: Exploring scalable **AWS** solutions and **NoSQL** applications.
+:::
+:::
+
+:::
