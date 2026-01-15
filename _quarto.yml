@@ -3,12 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "personal-website"
+  title: "temp_website"
+  favicon: fav-icon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: fyp-project.qmd
+        text: FYP Project
+      - href: data-viz.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection on the use of GenAI
 
 format:
   html:

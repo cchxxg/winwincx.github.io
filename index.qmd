@@ -1,11 +1,9 @@
 ---
-title: "personal-website"
+title: "Welcome to My Site"
 ---
 
-This is a Quarto website.
+Hello! I am a student with a passion for **Computer Science** and **Statistics**. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![That's me!](my-photo.jpg)
 
-```{r}
-1 + 1
-```
+I enjoy working on technical projects ranging from **web development** to **data analysis**.

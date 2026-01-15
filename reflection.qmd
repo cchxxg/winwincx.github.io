@@ -1,0 +1,21 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+### What GenAI tool did you use?
+For this assessment, I used **Gemini** (specifically the Gemini 3 Flash model). I chose this tool because of its ability to provide real-time technical troubleshooting and its deep integration with programming workflows like RStudio and Git.
+
+### How the GenAI tool helped me
+The tool was instrumental in several areas:
+1.  **Troubleshooting Git Errors:** When I encountered the `fatal: no upstream branch` error in my terminal, Gemini explained that my local `master` branch wasn't linked to GitHub and provided the exact command (`git push -u origin master`) to fix it.
+2.  **Quarto Configuration:** It helped me structure my `_quarto.yml` file to ensure my navigation bar was correctly linked to my `.qmd` files.
+3.  **Environment Setup:** It provided guidance on moving my project out of OneDrive to prevent synchronization conflicts with Git's internal tracking files.
+
+### Benefits of the Tool
+The primary benefit was the **speed of resolution**. Instead of searching through long forum threads, I could provide my specific error message and get a tailored solution immediately. It acted as a "thought partner" that helped bridge the gap between my knowledge of Java/JavaScript and the specific syntax of R and Quarto.
+
+### Challenges of the Tool
+The main challenge was ensuring the AI understood my local folder structure. For example, I had to be very specific about file names (like `logo.png` vs `fav-icon.png`) to ensure the generated code snippets would work without "broken image" errors.
+
+### Future Assistance
+In my future study and work, I see GenAI tools as essential for **rapid prototyping**. Whether I am debugging a MySQL connection in Python or setting up an AWS EMR cluster, having a tool that can explain complex documentation in simple steps will significantly increase my productivity.

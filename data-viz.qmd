@@ -1,0 +1,18 @@
+---
+title: "Data Visualization"
+---
+
+## Visualization of Academic Performance vs. Study Hours
+
+Below is a scatter plot representing the relationship between weekly study hours and final exam scores for a sample of 50 students in a Statistics module.
+
+![Scatter Plot of Study Hours vs Exam Scores](path-to-your-image.png)
+
+### Content of the Visualization
+This graph visualizes **quantitative data**. The x-axis represents the independent variable (Study Hours per Week), and the y-axis represents the dependent variable (Exam Scores, ranging from 0-100). Each point on the plot represents an individual student's data.
+
+### The Story Behind This Task
+This visualization was created as part of a probability and statistics project to determine if there was a strong positive correlation between time investment and academic results. 
+
+**Rationale for the Visualization:**
+I chose a **Scatter Plot** because it is the most effective way to identify the relationship (correlation) between two numerical variables. By adding a trend line, I could clearly show that as study hours increased, exam scores tended to rise, providing a visual representation of the $r$ correlation coefficient we calculated in class.
